@@ -1,2 +1,2 @@
-#\!/bin/bash 
-Z echo ALX
+#!/bin/bash 
+echo ALX
